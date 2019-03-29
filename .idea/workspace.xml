@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c634a54-ffcb-45bb-b16a-efec096d50e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functional/square_root.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spark/resources/deledda_count.txt/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spark/resources/shakespeareWordCount.txt/_SUCCESS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/studiocode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/studiocode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/4_tail_recursion.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningScala1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/LearningScala1.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningScala2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/LearningScala2.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningScala3.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/LearningScala3.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearningScala4.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/LearningScala4.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/1800.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/1800.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deledda_canne_al_vento.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/deledda_canne_al_vento.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deledda_count.txt/._SUCCESS.crc" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/deledda_count.txt/._SUCCESS.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deledda_count.txt/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/deledda_count.txt/.part-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deledda_count.txt/_SUCCESS" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/by_name_by_value.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/deledda_count.txt/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/deledda_count.txt/part-00000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fakefriends.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/fakefriends.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shakespeare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/shakespeare.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shakespeareWordCount.txt/._SUCCESS.crc" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/shakespeareWordCount.txt/._SUCCESS.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shakespeareWordCount.txt/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/shakespeareWordCount.txt/.part-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shakespeareWordCount.txt/_SUCCESS" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/nested_functions.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/shakespeareWordCount.txt/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/shakespeareWordCount.txt/part-00000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/u.data" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/resources/u.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/FriedByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/FriedByAge.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HelloScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/HelloScala.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/HelloScala1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/HelloScala1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MaxTemp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/MaxTemp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MinTemp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/MinTemp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/RatingConunter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/spark/scala/RatingConunter.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,15 +56,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spark/scala/MaxTemp.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="31" column="48" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spark/scala/MinTemp.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -131,7 +92,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/functional/square_root.sc">
+        <entry file="file://$PROJECT_DIR$/src/functional/3_square_root.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="31" />
@@ -140,19 +101,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/functional/by_name_by_value.sc">
+        <entry file="file://$PROJECT_DIR$/src/functional/1_by_name_by_value.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/functional/2_nested_functions.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/functional/nested_functions.sc">
+        <entry file="file://$PROJECT_DIR$/src/functional/4_tail_recursion.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -206,6 +176,8 @@
         <option value="$PROJECT_DIR$/src/functional/square_root.sc" />
         <option value="$PROJECT_DIR$/src/functional/by_name_by_value.sc" />
         <option value="$PROJECT_DIR$/src/functional/nested_functions.sc" />
+        <option value="$PROJECT_DIR$/src/functional/4_functions.sc" />
+        <option value="$PROJECT_DIR$/src/functional/4_tail_recursion.sc" />
       </list>
     </option>
   </component>
@@ -475,10 +447,10 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917705" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.4996573" weight="0.32917705" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5038924" weight="0.32872504" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51970184" side_tool="true" visible="true" weight="0.24513274" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.50319487" weight="0.3283186" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5202343" side_tool="true" visible="true" weight="0.20176992" />
       <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49642345" weight="0.24525917" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4802982" weight="0.20176992" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4797657" visible="true" weight="0.20176992" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -753,24 +725,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/by_name_by_value.sc">
+    <entry file="file://$PROJECT_DIR$/src/functional/1_by_name_by_value.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/square_root.sc">
+    <entry file="file://$PROJECT_DIR$/src/functional/3_square_root.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functional/nested_functions.sc">
+    <entry file="file://$PROJECT_DIR$/src/functional/2_nested_functions.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="1360">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functional/4_tail_recursion.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
